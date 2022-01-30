@@ -1,0 +1,2 @@
+entre mas binarios se le agreguen al archivo mas pesado va a ser, no es recomendable enviar binarios al archivo
+cuando se trabaja con binarios se demora en actualizarse
